@@ -57,18 +57,18 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*_Pair Code Connected by NADEEN-MD*
-*_Made By Nadeen Poorna_*
+*_Pair Code Connected by HIRAN-MD*
+*_Made By Hiranya_sathsara_*
 ______________________________________
 ╔════◇
-║ *『 WOW YOU'VE CHOSEN NADEEN-MD 』*
+║ *『 WOW YOU'VE CHOSEN HIRAN-MD 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Owner:* https://wa.me/94711451319
-║❒ *Repo:* https://github.com/Nadeenpoorna-max/NADEEN-MD
-║❒ *WaChannel:* - https://whatsapp.com/channel/0029VagN2qW3gvWUBhsjcn3I
+║❒ *Owner:* https://wa.me/94768698018
+║❒ *Repo:* https://github.com/hiran-md/HIRAN-MD-V2
+║❒ *WaGroup:* - https://chat.whatsapp.com/CVlyZJewWh87iS3mcMfEBQ
 ╚════════════════════════╝
 _____________________________________
 
